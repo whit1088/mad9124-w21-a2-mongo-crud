@@ -6,7 +6,7 @@ MAD9124 Mobile API Development
 
 This is the second of three take home assignments related to building a backend web service to support a simple class list application called _cListR_.
 
-In the previous assignment you built the base for the _cListR_ RESTful API using Node.js and the Express framework. For this assignment you will enhance that base application to use MongoDB for data persistance and add measures to sanitize incoming data.
+In the previous assignment you built the base for the _cListR_ RESTful API using Node.js and the Express framework. For this assignment you will enhance that base application to use MongoDB for data persistence and add measures to sanitize incoming data.
 
 ## Core Requirements
 
@@ -58,7 +58,7 @@ In the previous assignment you built the base for the _cListR_ RESTful API using
 
 ## Logistics
 
-- Clone the repo to your latptop.
+- Fork the repo and then clone it to your latptop.
 - Build the project on your laptop.
 - Test each route with Postman.
 - Make git commits as you complete each requirement
