@@ -1,7 +1,7 @@
 import createDebug from 'debug'
 import xss from 'xss'
 
-const debug = createDebug('a2:middleWare:sanitizeBody')
+const debug = createDebug('A2:middleWare:sanitizeBody')
 
 const sanitize = (sourceString) => {
   return xss(sourceString, {
